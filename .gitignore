@@ -1,0 +1,12 @@
+**.tfstate*
+/*.json
+.terraform*
+*.plan
+terraform.tfvars
+01-storage-accnt/.terraform*
+01-storage-accnt/**.tfstate*
+02-prepare-env/.terraform*
+02-prepare-env/**.tfstate*
+03-create-cluster/.terraform*
+03-create-cluster/**.tfstate*
+04-secrets/*
